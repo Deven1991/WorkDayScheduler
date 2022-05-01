@@ -1,5 +1,5 @@
 body {
-  font-family: 'arial', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .jumbotron {
@@ -41,7 +41,7 @@ textarea {
 }
 
 .past {
-  background-color: grey;
+  background-color: lightgray;
   color: white;
 }
 
